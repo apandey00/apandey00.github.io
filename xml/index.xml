@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "coverlist.css"?>
+  <?meta name="viewport" content="width=device-width, initial-scale=1.0"?>
+<songs>
+<heading> COVER LIST </heading>
+<song id="head"> 
+    <title>Title</title>
+        <artist>Artist</artist>
+        <genre>Genre</genre>
+        <year>Year</year>
+</song>
+    <song>
+        <title>Gooey</title>
+        <artist>Glass Animals</artist>
+        <genre>Indie Rock</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <title>Breezeblocks</title>
+        <artist>alt-J</artist>
+        <genre>Alternative Rock</genre>
+        <year>2012</year>
+        
+    </song>
+    <song>
+        <title>Cocaine Jesus</title>
+        <artist>Rainbow Kitten Surprise</artist>
+        <genre>Alternative Rock</genre>
+        <year>2018 </year>
+    </song>
+    <song>
+        <title>Liggi</title>
+        <artist>Ritviz</artist>
+        <genre>Alternative</genre>
+        <year>2019</year>
+        
+    </song>
+    <song>
+        <title>Fast Talk</title>
+        <artist>Houses</artist>
+        <genre>Indie</genre>
+        <year>2019</year>
+        
+    </song>
+    <song>
+        <title>These Days</title>
+        <artist>Wallows </artist>
+        <genre>Alternative</genre>
+        <year>2018</year>
+        
+    </song>
+    <song>
+        <title>Warm Animal</title>
+        <artist>Sure Sure</artist>
+        <genre>Indie</genre>
+        <year>2019</year>
+        
+    </song>
+    <song>
+        <title>anemone</title>
+        <artist>alenderbodies</artist>
+        <genre>Alternative</genre>
+        <year>2018</year>
+        
+    </song>
+    <song>
+        <title>Trippy</title>
+        <artist>Mindchatter</artist>
+        <genre>Alternative Funk</genre>
+        <year>2019</year>
+        
+    </song>
+    <song>
+        <title>Last Train to London</title>
+        <artist>Electric Lights Orchestra</artist>
+        <genre>Progressive Rock</genre>
+        <year>2013</year>
+        
+    </song>
+</songs>

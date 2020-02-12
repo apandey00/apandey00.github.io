@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+heading {
+    color: green; 
+    font-size : 3vw; 
+    background-color : powderblue; 
+    display: flex;
+    justify-content: center;
+}
+
+#head {
+    font-weight: bold;
+}
+song {
+    font-size: 20px;
+    background-color: lightgray;
+    padding: 1.5vh;
+    display: flex;
+    justify-content: space-around;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+}
+
+title {width: 25vw}
+artist {width: 25vw}
+genre {width: 25vw}
+year {width:25vw}
